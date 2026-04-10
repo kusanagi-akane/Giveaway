@@ -75,7 +75,7 @@
 ### 1) 下載專案
 
 ```bash
-git clone 
+git clone https://github.com/kusanagi-akane/Giveaway.git
 cd Giveaway
 ```
 
